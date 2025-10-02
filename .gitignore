@@ -1,0 +1,8 @@
+# Ignore build artifacts
+*.exe
+*.obj
+*.o
+*.dll
+*.so
+*.a
+/build/

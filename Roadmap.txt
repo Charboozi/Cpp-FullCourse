@@ -1,0 +1,59 @@
+std::vector, std::map, std::string, std::array, std::set.
+
+Iterators & algorithms (std::sort, std::find).
+
+Move semantics (std::move, rvalue references).
+
+RAII and resource management.
+
+
+
+Smart pointers (unique_ptr, shared_ptr, weak_ptr).
+
+Advanced templates (SFINAE, template specialization).
+
+Lambdas & functional programming.
+
+STL algorithms in depth.
+
+Concurrency & multithreading (std::thread, mutexes, atomics, async).
+
+File handling, streams.
+
+Design patterns in C++.
+
+Memory models, cache efficiency.
+
+
+
+
+Modern standards (C++11, C++14, C++17, C++20, and C++23).
+
+Concepts & ranges (C++20).
+
+Coroutines (C++20).
+
+Custom allocators, memory pools.
+
+Low-level optimization.
+
+Build systems (CMake).
+
+Large project architecture.
+
+Testing frameworks (GoogleTest, Catch2).
+
+Cross-platform development.
+
+
+Solve problems on LeetCode / Codeforces / HackerRank (use C++).
+
+Build small projects:
+
+Calculator
+
+Text-based game
+
+File parser
+
+Chat application with sockets
