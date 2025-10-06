@@ -29,7 +29,7 @@ int main(){
     std::cout << "How many grades to enter in?: ";
     std::cin >> size;
 
-    pGrades = new char[5];
+    pGrades = new char[size];
 
     for (int i = 0; i < size; i++)
     {

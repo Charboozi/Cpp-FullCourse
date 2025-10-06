@@ -2,7 +2,9 @@
 template <typename T, typename U> // important 
 /*
     function template = describes what a function looks like.
-                        Can be sued to generate as many overloaded functions
+    
+                        Can be used to generate as many overloaded functions
+
                         as needed, each using different data types
 
                         similar to overloaded functions but more efficient
